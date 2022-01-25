@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://claude007:Khaled1984@claudemedia.89sws.mongodb.net/users?retryWrites=true&w=majority",
+    "jwtSecret": "SECRETTOKEN"
+}
